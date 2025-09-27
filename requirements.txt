@@ -1,0 +1,5 @@
+customtkinter==5.2.0
+pyTelegramBotAPI==4.15.2
+requests==2.31.0
+qrcode==7.4.2
+Pillow==10.2.0
