@@ -55,7 +55,7 @@ To run this software, ensure you have:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/PingRay/PingRay.git
+   git clone https://github.com/Arianlavi/PingRay.git
    cd PingRay
    ```
 
