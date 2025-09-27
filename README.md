@@ -1,7 +1,7 @@
 # 🌟 PingRay - VPN Config Management  🌟
 
 ![Telegram API Getter](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-lightgrey)
 
 Welcome to the boundless world of the internet! **PingRay** is a revolutionary and intelligent software that elevates V2Ray and VPN configuration management to new heights. With its stunning dark-themed interface and a wealth of powerful features, this tool is your ultimate companion for a secure, fast, and enjoyable web experience.
