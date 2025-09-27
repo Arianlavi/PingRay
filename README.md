@@ -38,6 +38,7 @@ This software is packed with incredible features designed to simplify and enhanc
 ## 🖥️ Screenshots
 
 ![App Screenshot](screenshot.png)
+![App Screenshot](screenshot2.png)
 
 ---
 ## 🚀 Why Choose PingRay?
